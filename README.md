@@ -10,3 +10,4 @@ R1D5, 7/1/21: Completed Ex 56: got it to work, with "resting" as arg for main2 f
 7/1/21 Part 2: Had a go at Ex 57, am stuck with the other definition of height. <br />
 R1D6, 8/1/21: Completed Ex 57 using the other definition of height. Also completed 4.6 Sample Ex and Ex 58. <br /> 
 R1D7, 9/1/21: Completed Ex 59 & 60. <br />
+R1D8, 10/1/21: Completed Ex 61, am still working on Ch 4.7 Sample Problem. I am trying to work it out by myself, rather than reading and following the text first.<br />
