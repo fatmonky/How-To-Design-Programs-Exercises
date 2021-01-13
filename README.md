@@ -12,3 +12,4 @@ R1D6, 8/1/21: Completed Ex 57 using the other definition of height. Also complet
 R1D7, 9/1/21: Completed Ex 59 & 60. <br />
 R1D8, 10/1/21: Completed Ex 61, am still working on Ch 4.7 Sample Problem. I am trying to work it out by myself, rather than reading and following the text first.<br />
 R1D9, 11/1/21: Still working on Ch 4.7 Sample Problem. Got my unit tests worked out, but still getting an error message, rather than for the "door" to work properly. <br /> 
+R1D10, 13/1/21: Completed Ch 4.7 and Ex 62 after reading Sample Problem text: was unable to get my timer-function to work, as it changed the state into a number from a string. The textbook answer is a lot cleaner and more elegant. <br />
