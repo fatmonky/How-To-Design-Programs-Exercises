@@ -14,3 +14,4 @@ R1D8, 10/1/21: Completed Ex 61, am still working on Ch 4.7 Sample Problem. I am 
 R1D9, 11/1/21: Still working on Ch 4.7 Sample Problem. Got my unit tests worked out, but still getting an error message, rather than for the "door" to work properly. <br /> 
 R1D10, 13/1/21: Completed Ch 4.7 and Ex 62 after reading Sample Problem text: was unable to get my timer-function to work, as it changed the state into a number from a string. The textbook answer is a lot cleaner and more elegant. <br />
 R1D11, 17/1/21: Completed up to Ch 5.6 and Ex 74. I had some trouble finding time to work on this challenge for the past few days, sadly, but am picking it up again. Much of Ch 5.6 is largely not about coding but about understanding finite data structures. <br /> 
+R1D11, 19/1/21: Completed Ch 5.8 Sample Ex & Ex 81. Didn't do many of the other exercises as those were trivial & didn't have much coding. <br />
